@@ -23,6 +23,9 @@ const deep = {
 		if (!hasOnlyObjects) {
 			throw new Error("Input arguments has to be Object type");
 		}
+		if (args.length == 1 && args[0] instanceof Array) {
+			args = Array.from(...args);
+		}
 
 		let ref = args.reduce( (obj, curr) => Object.assign(obj, curr) , {});
 

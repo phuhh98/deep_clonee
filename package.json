@@ -1,6 +1,6 @@
 {
-  "name": "deep",
-  "version": "1.0.0",
+  "name": "deep_clonee",
+  "version": "0.1.1",
   "description": "return a deep copy of an object or array",
   "main": "main.js",
   "scripts": {
@@ -12,6 +12,14 @@
     "array",
     "object"
   ],
-  "author": "meobeo",
-  "license": "ISC"
+  "author": "Huynh Hoai Phu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phuhh98/deepclone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phuhh98/deepclone/issues"
+  },
+  "homepage": "https://github.com/phuhh98/deepclone#readme"
 }
