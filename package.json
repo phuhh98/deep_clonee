@@ -1,8 +1,8 @@
 {
   "name": "deep",
   "version": "1.0.0",
-  "description": "deep copy",
-  "main": "index.js",
+  "description": "return a deep copy of an object or array",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
