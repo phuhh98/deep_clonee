@@ -8,7 +8,9 @@
   },
   "keywords": [
     "copy",
-    "deepcopy",
+    "deep copy",
+    "deep clone",
+    "deep cloning",
     "array",
     "object"
   ],
