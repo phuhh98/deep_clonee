@@ -1,6 +1,6 @@
 {
   "name": "deep_clonee",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "return a deep copy of an object or array",
   "main": "main.js",
   "scripts": {
